@@ -1,0 +1,31 @@
+.h1 {
+    font-family: 'Century Gothic', Courier, monospace;
+}
+
+
+
+
+.img1{
+    height: 35px;
+}
+.img1:hover{padding: 5.5px;transition: 0.2s;height: 40px;
+
+
+}
+.img2{
+    height: 35px;width: 35px;
+}
+.img2:hover{padding: 5.5px;transition: 0.2s;height: 40px;
+
+
+}
+.img3{
+    height: 35px;
+}
+.img3:hover{padding: 5.5px;transition: 0.2s;height: 40px;
+
+
+}
+.img4{
+    height:200px; 
+}
